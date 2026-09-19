@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /apercu/
+
+Sitemap: https://guts6667.github.io/guarrigue/sitemap.xml
